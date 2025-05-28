@@ -3,7 +3,7 @@
 <p>
   <img src="./spiderman.gif" align="right" width="15%"/>
   <samp>
-    <br>Soy un desarrollador Web y creador de contenidos digitales.
+    <br>Soy un estudiante de programación en 4to Diversificado.
     <br>
     <br>🔹 Actualmente estoy aprendiendo JAVA, HTML, SQL Y CSS.
     <br>🔹 Soy usuario de parrot
